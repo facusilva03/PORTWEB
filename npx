@@ -1,0 +1,1 @@
+  hardhat run scripts/agregarEmisor.js --network localhost
